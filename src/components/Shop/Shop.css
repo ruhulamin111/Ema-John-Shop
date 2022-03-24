@@ -12,8 +12,6 @@
     background-color: #F28241;
     padding: 10px;
     color: white;
-    height: 500px;
-    border-radius: 0 0 10px 10px;
 }
 @media screen and (max-width:1200px){
     .products-container{
